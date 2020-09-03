@@ -77,7 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [A Project Guide to UX Design by Russ Unger](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376)
 - [Web Style Guide by Patrick J. Lynch and Sarah Horton](http://webstyleguide.com/wsg3/index.html)
 - [Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367)
-- [The User Experience Team Of One] (https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
+- [The User Experience Team Of One] (https://drive.google.com/file/d/0B3STyOCBFMQtRks0N09VSDdSVlk/view?usp=sharing)
 
 ## Videos
 - [Ryan Singer at Future of Web Apps](https://vimeo.com/15772341)
